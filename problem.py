@@ -36,7 +36,7 @@ def find_middle_node(arr):
         i += 1
         j -= 1
 
-# two_sum(arr)
+two_sum(arr)
 arr = [2, 4, 7, 1, 3, 5, 7]
 # max_product(arr)
 print(arr)

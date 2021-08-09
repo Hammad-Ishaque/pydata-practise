@@ -2,7 +2,7 @@ from sqlite3 import connect
 from contextlib import contextmanager
 
 
-# now instead of cretaing and droping databases we can create context manager for it
+# now instead of creating and droping databases we can create context manager for it
 
 
 class customcontextmanager:
